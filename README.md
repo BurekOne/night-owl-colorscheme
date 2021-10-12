@@ -2,7 +2,7 @@
 
 ## About
 
-Night Owl is based on [Monochrome KDE](https://gitlab.com/pwyde/monochrome-kde) and [Breeze Dark](https://develop.kde.org/hig/style/color/dark/) color schemes.
+Night Owl: a dark color scheme for the KDE Plasma desktop environment. Night Owl is based on [Monochrome KDE](https://gitlab.com/pwyde/monochrome-kde) and [Breeze Dark](https://develop.kde.org/hig/style/color/dark/) color schemes.
 
 ## How to install
 
